@@ -11,7 +11,7 @@ const reasons = [
     gif: "gif2.gif",
   },
   {
-    text: "Semoga Anda meraih kesuksesan, kebahagiaan, dan segala hal yang didambakan hati Anda.. ✨ ",
+    text: "Semoga kamu meraih kesuksesan, kebahagiaan, dan segala hal yang didambakan hati kamu.. ✨ ",
     emoji: "💕",
     gif: "gif1.gif",
   },
